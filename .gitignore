@@ -1,0 +1,31 @@
+# Xcode
+.DS_Store
+build/
+DerivedData/
+*.xcworkspace/
+xcuserdata/
+xcshareddata/
+*.xcodeproj/*.pbxuser
+*.xcodeproj/project.xcworkspace/
+
+# Swift Package Manager
+Packages/
+.package/
+*.xcodeproj/xcuserdata
+
+# Carthage
+Carthage/Build/
+
+# CocoaPods
+Pods/
+Podfile.lock
+*.xcworkspace/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+
+# App files
+StoreScout/Resources/Assets.xcassets
+StoreScout/CoreData/StoreScout.xcdatamodeld
